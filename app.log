@@ -1,0 +1,7 @@
+2026-01-25 17:01:55,871 - main - ERROR - Card Not Found:Card with id 9999999998 not found
+2026-01-25 17:04:54,239 - main - INFO - Processing creation for: 1111111111
+2026-01-25 17:04:54,276 - main - INFO - Success: Created card 1111111111
+2026-01-25 17:05:40,694 - main - INFO - Recharge request: 1111111111 for 2000.0
+2026-01-25 17:05:40,697 - main - ERROR - Balance Limit Exceeded: Current Balance 9000.0, Attempted Amount 2000.0, Limit 10000
+2026-01-25 17:06:24,350 - main - INFO - Recharge request: 2222222221 for 2000.0
+2026-01-25 17:06:24,357 - main - ERROR - Card Not Found:Card with id 2222222221 not found

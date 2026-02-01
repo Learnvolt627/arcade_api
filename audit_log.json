@@ -1,0 +1,36 @@
+[
+    {
+        "timestamp": "2026-01-23T16:41:39.234984",
+        "action": "create_card",
+        "details": {
+            "card_id": "9999999999",
+            "initial_balance": 100.0
+        }
+    },
+    {
+        "timestamp": "2026-01-23T16:48:26.071122",
+        "action": "recharge_card",
+        "details": {
+            "card_id": "9999999999",
+            "old_balance": 100.0,
+            "recharged_amount": 101.0,
+            "new_balance": 201.0
+        }
+    },
+    {
+        "timestamp": "2026-01-23T16:48:48.855428",
+        "action": "refund_card",
+        "details": {
+            "card_id": "9999999999",
+            "refunded_amount": 201.0
+        }
+    },
+    {
+        "timestamp": "2026-01-25T17:04:54.275723+05:30",
+        "action": "create_card",
+        "details": {
+            "card_id": "1111111111",
+            "initial_balance": 9000.0
+        }
+    }
+]
